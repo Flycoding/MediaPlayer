@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MediaPlayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="enter_music_name">Enter the music\'s name to play</string>
+    <string name="default_music_name">SomeoneLikeYou.mp3</string>
+    <string name="play">Play</string>
+    <string name="reset">Reset</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+
+</resources>
